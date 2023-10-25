@@ -1,0 +1,14 @@
+Write a blog about objects and its internal representation in Javascript
+
+Objects and its internal representation:
+
+1.Objects are important data types in javascript. 
+2.Objects are complex and each object may contain a combination of primitive data-types as well as reference data-types.
+3.An object is a reference data type. 
+4.The reference or pointer points to the location in memory where the object is stored. The variables don’t actually store the value.
+5.An object can be created with figure brackets {} with an optional list of properties. 
+6.. For example, let’s create an object named myBike and give it properties named make, model, and year as follows:
+var myBike = new Object();
+myBike.make = 'Dominer';
+myBimke.model = 'Wrench';
+myBike.year = 2020;
